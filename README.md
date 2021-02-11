@@ -2,7 +2,7 @@
 To be accurate, it's a tool to download MCQs from Becker's site. I personally prefer printed papers to prepare for the examinations. Since Becker don't provide it, I made it myself.
 
 ## Binaries
-Becker Downloader: ![Link](https://github.com/noworneverev/pybecker/releases/download/1.0.0.0/main.exe)
+Becker Downloader: [Link](https://github.com/noworneverev/pybecker/releases/download/1.0.0.0/main.exe)
 
 ![main.exe](https://i.imgur.com/zli4ID3.png)
 
